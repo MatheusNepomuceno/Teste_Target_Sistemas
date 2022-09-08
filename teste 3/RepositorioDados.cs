@@ -8,7 +8,7 @@ namespace teste_3
     {
         
         public string dia { get; set; }
-        public float valor { get; set; }
+        public double valor { get; set; }
 
     }
 }
