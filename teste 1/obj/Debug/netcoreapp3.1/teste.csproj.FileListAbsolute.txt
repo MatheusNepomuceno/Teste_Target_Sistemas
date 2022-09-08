@@ -1,0 +1,13 @@
+C:\Users\tec.tinf.ti6\source\repos\teste\bin\Debug\netcoreapp3.1\teste.exe
+C:\Users\tec.tinf.ti6\source\repos\teste\bin\Debug\netcoreapp3.1\teste.deps.json
+C:\Users\tec.tinf.ti6\source\repos\teste\bin\Debug\netcoreapp3.1\teste.runtimeconfig.json
+C:\Users\tec.tinf.ti6\source\repos\teste\bin\Debug\netcoreapp3.1\teste.runtimeconfig.dev.json
+C:\Users\tec.tinf.ti6\source\repos\teste\bin\Debug\netcoreapp3.1\teste.dll
+C:\Users\tec.tinf.ti6\source\repos\teste\bin\Debug\netcoreapp3.1\teste.pdb
+C:\Users\tec.tinf.ti6\source\repos\teste\obj\Debug\netcoreapp3.1\teste.csproj.AssemblyReference.cache
+C:\Users\tec.tinf.ti6\source\repos\teste\obj\Debug\netcoreapp3.1\teste.AssemblyInfoInputs.cache
+C:\Users\tec.tinf.ti6\source\repos\teste\obj\Debug\netcoreapp3.1\teste.AssemblyInfo.cs
+C:\Users\tec.tinf.ti6\source\repos\teste\obj\Debug\netcoreapp3.1\teste.csproj.CoreCompileInputs.cache
+C:\Users\tec.tinf.ti6\source\repos\teste\obj\Debug\netcoreapp3.1\teste.dll
+C:\Users\tec.tinf.ti6\source\repos\teste\obj\Debug\netcoreapp3.1\teste.pdb
+C:\Users\tec.tinf.ti6\source\repos\teste\obj\Debug\netcoreapp3.1\teste.genruntimeconfig.cache

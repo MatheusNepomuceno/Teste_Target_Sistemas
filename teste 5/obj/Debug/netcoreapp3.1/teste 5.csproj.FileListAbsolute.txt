@@ -1,0 +1,13 @@
+C:\Users\tec.tinf.ti6\source\repos\teste 5\bin\Debug\netcoreapp3.1\teste 5.exe
+C:\Users\tec.tinf.ti6\source\repos\teste 5\bin\Debug\netcoreapp3.1\teste 5.deps.json
+C:\Users\tec.tinf.ti6\source\repos\teste 5\bin\Debug\netcoreapp3.1\teste 5.runtimeconfig.json
+C:\Users\tec.tinf.ti6\source\repos\teste 5\bin\Debug\netcoreapp3.1\teste 5.runtimeconfig.dev.json
+C:\Users\tec.tinf.ti6\source\repos\teste 5\bin\Debug\netcoreapp3.1\teste 5.dll
+C:\Users\tec.tinf.ti6\source\repos\teste 5\bin\Debug\netcoreapp3.1\teste 5.pdb
+C:\Users\tec.tinf.ti6\source\repos\teste 5\obj\Debug\netcoreapp3.1\teste 5.csproj.AssemblyReference.cache
+C:\Users\tec.tinf.ti6\source\repos\teste 5\obj\Debug\netcoreapp3.1\teste 5.AssemblyInfoInputs.cache
+C:\Users\tec.tinf.ti6\source\repos\teste 5\obj\Debug\netcoreapp3.1\teste 5.AssemblyInfo.cs
+C:\Users\tec.tinf.ti6\source\repos\teste 5\obj\Debug\netcoreapp3.1\teste 5.csproj.CoreCompileInputs.cache
+C:\Users\tec.tinf.ti6\source\repos\teste 5\obj\Debug\netcoreapp3.1\teste 5.dll
+C:\Users\tec.tinf.ti6\source\repos\teste 5\obj\Debug\netcoreapp3.1\teste 5.pdb
+C:\Users\tec.tinf.ti6\source\repos\teste 5\obj\Debug\netcoreapp3.1\teste 5.genruntimeconfig.cache

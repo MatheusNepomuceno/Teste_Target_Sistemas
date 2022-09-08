@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zysYhUcpK0N+AwQC9Knh0bPAWRiGLN64SBhkysCTdUiJCa+KrUFTHVpUnM7aEx6p9w6uIviMHeHGpvLrqU4vow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tec.tinf.ti6\\source\\repos\\teste\\teste.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tec.tinf.ti6\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

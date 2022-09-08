@@ -1,0 +1,22 @@
+C:\Users\tec.tinf.ti6\source\repos\teste 3\bin\Debug\netcoreapp3.1\teste 3.exe
+C:\Users\tec.tinf.ti6\source\repos\teste 3\bin\Debug\netcoreapp3.1\teste 3.deps.json
+C:\Users\tec.tinf.ti6\source\repos\teste 3\bin\Debug\netcoreapp3.1\teste 3.runtimeconfig.json
+C:\Users\tec.tinf.ti6\source\repos\teste 3\bin\Debug\netcoreapp3.1\teste 3.runtimeconfig.dev.json
+C:\Users\tec.tinf.ti6\source\repos\teste 3\bin\Debug\netcoreapp3.1\teste 3.dll
+C:\Users\tec.tinf.ti6\source\repos\teste 3\bin\Debug\netcoreapp3.1\teste 3.pdb
+C:\Users\tec.tinf.ti6\source\repos\teste 3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tec.tinf.ti6\source\repos\teste 3\bin\Debug\netcoreapp3.1\Refit.dll
+C:\Users\tec.tinf.ti6\source\repos\teste 3\bin\Debug\netcoreapp3.1\Refit.Newtonsoft.Json.dll
+C:\Users\tec.tinf.ti6\source\repos\teste 3\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\tec.tinf.ti6\source\repos\teste 3\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tec.tinf.ti6\source\repos\teste 3\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\tec.tinf.ti6\source\repos\teste 3\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\tec.tinf.ti6\source\repos\teste 3\obj\Debug\netcoreapp3.1\teste 3.csproj.AssemblyReference.cache
+C:\Users\tec.tinf.ti6\source\repos\teste 3\obj\Debug\netcoreapp3.1\teste 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tec.tinf.ti6\source\repos\teste 3\obj\Debug\netcoreapp3.1\teste 3.AssemblyInfoInputs.cache
+C:\Users\tec.tinf.ti6\source\repos\teste 3\obj\Debug\netcoreapp3.1\teste 3.AssemblyInfo.cs
+C:\Users\tec.tinf.ti6\source\repos\teste 3\obj\Debug\netcoreapp3.1\teste 3.csproj.CoreCompileInputs.cache
+C:\Users\tec.tinf.ti6\source\repos\teste 3\obj\Debug\netcoreapp3.1\teste 3.csproj.CopyComplete
+C:\Users\tec.tinf.ti6\source\repos\teste 3\obj\Debug\netcoreapp3.1\teste 3.dll
+C:\Users\tec.tinf.ti6\source\repos\teste 3\obj\Debug\netcoreapp3.1\teste 3.pdb
+C:\Users\tec.tinf.ti6\source\repos\teste 3\obj\Debug\netcoreapp3.1\teste 3.genruntimeconfig.cache

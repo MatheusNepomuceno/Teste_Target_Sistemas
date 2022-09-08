@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "9p7FRJO+pepKIY+NyGeUP3lid2GCAIsu5+a0zFhp6qaZSB4vwozxGNh8Cr8ze915q+REdldPA6bG0sp0hQnTtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tec.tinf.ti6\\source\\repos\\teste 3\\teste 3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tec.tinf.ti6\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\tec.tinf.ti6\\.nuget\\packages\\refit\\6.3.2\\refit.6.3.2.nupkg.sha512",
+    "C:\\Users\\tec.tinf.ti6\\.nuget\\packages\\refit.newtonsoft.json\\6.3.2\\refit.newtonsoft.json.6.3.2.nupkg.sha512",
+    "C:\\Users\\tec.tinf.ti6\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\tec.tinf.ti6\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\tec.tinf.ti6\\.nuget\\packages\\system.net.http.json\\6.0.0\\system.net.http.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\tec.tinf.ti6\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\tec.tinf.ti6\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\tec.tinf.ti6\\.nuget\\packages\\system.text.json\\6.0.1\\system.text.json.6.0.1.nupkg.sha512",
+    "C:\\Users\\tec.tinf.ti6\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\tec.tinf.ti6\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
